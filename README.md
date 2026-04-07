@@ -8,7 +8,7 @@
 
 - En el ámbito de la programación, me desempeño como desarrollador full stack, dedicando gran parte de mi tiempo a practicar y mejorar mis habilidades. Me interesa especialmente la resolución de problemas y la construcción de proyectos, ya que considero cada uno como un desafío que requiere lógica y creatividad.
 
-<img src="./FotoPerfil.jpeg" style="width:120px; height:auto; display:block; margin:auto;">
+<img src="./FotoPerfil.jpeg" style="width:250px; height:auto; display:block; margin-left:auto; margin-right:auto;">
 
 ### Otra Información
 
